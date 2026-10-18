@@ -1,0 +1,26 @@
+{
+  "competition": "EFL Championship",
+  "season": "2026/27",
+  "cutoff_local": "2026-10-18 12:05 America/Sao_Paulo",
+  "completed_fixtures": 131,
+  "clubs": 24,
+  "score_status": "all final only",
+  "southampton_points_adjustment": -4,
+  "derived_table_matches_efl_and_espn": true,
+  "checked_fields": [
+    "played",
+    "points (deduction-adjusted)",
+    "W",
+    "D",
+    "L",
+    "GF",
+    "GA",
+    "GD"
+  ],
+  "upcoming_rows": 25,
+  "limitations": [
+    "Upcoming schedule coverage is through 2026-11-01 only.",
+    "EFL live competition page returned stale historical table data; current official EFL post-match table article was used for the official standings.",
+    "ESPN schedule/match feed provided independent score and near-term fixture records."
+  ]
+}

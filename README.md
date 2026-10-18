@@ -1,6 +1,6 @@
 # English Championship 2026/27 — DIN Mercado Dashboard
 
-A standalone, mobile-first Championship dashboard. This project contains no Premier League or other-division data.
+A standalone, mobile-first Championship dashboard using the dark Brazil-series palette. This project contains no Premier League or other-division data.
 
 ## Build and validation
 
@@ -11,7 +11,7 @@ python3 validate_championship.py
 python3 build_dashboard.py
 ```
 
-The validator rebuilds a match-level table from the **131 final-score rows** and compares P, points, W–D–L, GF, GA and GD against both the official EFL table and ESPN's independent table. It applies the EFL's official four-point 2026/27 deduction to Southampton. It fails closed on any mismatch or unconfirmed score.
+The validator rebuilds a match-level table from the **131 final-score rows** and compares P, points, W–D–L, GF, GA and GD against both the official EFL table and ESPN's independent table. It applies the EFL's official four-point 2026/27 deduction to Southampton. It fails closed on any mismatch or unconfirmed score. The dashboard reports 131 completed fixtures out of the 552-match season, goal/BTTS/Over 2.5 rates with denominators, and the home/draw/away split; its Fixtures tab browses all 156 available records and filters by status or club.
 
 ## Snapshot
 
@@ -19,7 +19,7 @@ Cutoff: **18 October 2026, 12:05 America/Sao_Paulo (BRT, UTC−03:00)**. Every p
 
 ## Files
 
-- `index.html` — deployable standalone app, bundled data and mobile-first UI.
+- `index.html` — deployable standalone app, bundled data, Brazil-series palette and mobile-first UI. Includes league KPIs, standings/zones, recent and upcoming fixtures, club form/venue splits, Top 5 rankings, H2H and interactive 1-X-2/goal estimates, plus a filterable full available fixtures/results view.
 - `championship-mark.svg` — distinct project identity asset.
 - `data/fixtures_results_2026_27.csv` — 131 final scores from ESPN's match feed; links and feed IDs retained.
 - `data/efl_official_table.csv` — official EFL standings snapshot.

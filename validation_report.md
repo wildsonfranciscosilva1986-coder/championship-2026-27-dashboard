@@ -13,9 +13,9 @@ PASS. `python3 validate_championship.py` exits successfully and reconciles the m
 - 25 scheduled upcoming fixtures, bounded to the published window 19 October–1 November 2026 (the actual rows range 20–31 October UTC).
 - No fixture coverage beyond 1 November is represented.
 
-## Build check
+## Dashboard feature/build check
 
-`python3 build_dashboard.py` succeeds and produces the standalone `index.html` (24 clubs; 156 completed plus scheduled match records). Two consecutive builds produced identical SHA-256: `0fae56083aa9c39b27bbb3eae5e31fb0dcb171cb75f085baa926c16d88ff0951`.
+`python3 build_dashboard.py` succeeds and produces the standalone `index.html` (24 clubs; 131 completed + 25 scheduled = 156 available match records). The overview now includes 131/552 completed/season fixtures; 378 goals and 2.89 goals per match; BTTS 83/131 (63.4%); Over 2.5 81/131 (61.8%); and home/draw/away results 52/36/43. The new Fixtures tab browses all available records with status and club filters. Existing club profiles, venue splits, form, rankings, H2H and matchup estimates remain. The generated HTML SHA-256 is `d3ce5848159926ce47368004ee74615f6c76bf15244ce0880a6431e4278613dc`.
 
 ## Evidence and limitations
 

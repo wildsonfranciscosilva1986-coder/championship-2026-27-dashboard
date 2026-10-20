@@ -1,35 +1,35 @@
 {
   "competition": "EFL Championship",
   "season": "2026/27",
-  "snapshot_cutoff_local": "2026-10-18 12:05 America/Sao_Paulo (BRT, UTC-03:00)",
+  "snapshot_cutoff_local": "2026-10-20 13:38:26 America/Sao_Paulo (BRT, UTC-03:00)",
   "source_records": [
     {
       "dataset": "data/efl_official_table.csv",
       "role": "Official standings baseline for all 24 clubs",
       "source": "EFL post-match results, table and stats article",
-      "url": "https://www.efl.com/news/2026/october/11/sky-bet-championship-results--table---stats/",
-      "retrieval_note": "The EFL live competition page returned stale historical table data; the dated EFL article is the official table used for reconciliation."
+      "url": "https://www.efl.com/news/2026/october/18/sky-bet-championship-results--table---stats/",
+      "retrieval_note": "Latest official dated post-match table article published 18 October, fetched again 20 October 2026 at 13:38 BRT. All 24 row vectors match the saved official table CSV; scores/table cover the weekend ending 17 October."
     },
     {
       "dataset": "data/fixtures_results_2026_27.csv",
       "role": "Match-level final scores; 131 completed fixtures through 17 October 2026",
       "source": "ESPN public Championship match feed; individual match URLs retained in each row",
       "url": "https://www.espn.com/soccer/standings/_/league/eng.2",
-      "retrieval_note": "All included records are marked finished and have integer scores. The dataset does not include raw response snapshots."
+      "retrieval_note": "All 131 included records are marked finished with integer scores; latest result date is 17 October 2026. ESPN standings fetched 20 October at 13:38 BRT show 131 total games played (sum of club appearances / 2), matching these result rows; the data contains no raw response snapshots."
     },
     {
       "dataset": "data/independent_espn_table.csv",
       "role": "Independent 24-club standings cross-check",
       "source": "ESPN Championship standings",
       "url": "https://www.espn.com/soccer/standings/_/league/eng.2",
-      "retrieval_note": "Compared field-by-field with the score-derived table and the EFL standings."
+      "retrieval_note": "ESPN 2026/27 standings fetched 20 October 2026 at 13:38 BRT; field-by-field comparison matches current EFL table and score-derived table for all 24 clubs."
     },
     {
       "dataset": "data/upcoming_fixtures_through_2026-11-01.csv",
       "role": "Bounded near-term fixture coverage; 25 scheduled fixtures, 20 October–31 October UTC",
       "source": "ESPN Championship fixture schedule; individual event URLs retained in each row",
       "url": "https://www.espn.com/soccer/fixtures/_/league/eng.2",
-      "retrieval_note": "This is not a full-season fixture list. Coverage is explicitly limited to the published horizon through 1 November 2026."
+      "retrieval_note": "Twenty-five scheduled fixtures retained through 1 November (rows dated 20–31 October UTC). ESPN schedule page rechecked 20 October at 13:38 BRT for the displayed near-term window; the 20 October Wolverhampton Wanderers–Portsmouth fixture (18:45 UTC) remained scheduled. This is not a full-season fixture list."
     },
     {
       "dataset": "competition context and deduction",
@@ -51,12 +51,29 @@
   ],
   "validation": {
     "command": "python3 validate_championship.py",
-    "report_files": ["validation.json", "validation.txt"],
-    "checks": ["131 finished score rows", "unique completed-match fixture IDs", "24 clubs", "score-derived P/W/D/L/GF/GA/points (Southampton deduction adjusted)/GD reconciliation against EFL and ESPN"]
+    "report_files": [
+      "validation.json",
+      "validation.txt"
+    ],
+    "checks": [
+      "131 finished score rows",
+      "unique completed-match fixture IDs",
+      "24 clubs",
+      "score-derived P/W/D/L/GF/GA/points (Southampton deduction adjusted)/GD reconciliation against EFL and ESPN"
+    ]
   },
   "limitations": [
-    "Source URLs and source descriptions are preserved; raw HTML/API response snapshots were not present in the existing project files and have not been recreated.",
-    "Upcoming fixture schedule coverage only extends through 1 November 2026.",
-    "The EFL live competition page returned stale historical table rows; the dated official EFL table article was used instead."
-  ]
+    "The displayed upcoming-fixture data is bounded through 1 November 2026 and is not a full-season schedule.",
+    "The EFL live competition URL returned stale 2023/24 standings; the dated official 18 October results/table article was used and re-fetched on 20 October.",
+    "The latest finished league match in the ESPN result dataset was 17 October; the 20 October Wolverhampton Wanderers–Portsmouth fixture was still pending at the 13:38 BRT cutoff.",
+    "ESPN schedule/match feed provided the result feed and near-term fixtures; raw upstream response snapshots are not stored in the repo."
+  ],
+  "refresh_check": {
+    "retrieved_at_utc": "2026-10-20T16:38:26Z",
+    "retrieved_at_local": "2026-10-20 13:38:26 America/Sao_Paulo",
+    "current_official_table_source": "https://www.efl.com/news/2026/october/18/sky-bet-championship-results--table---stats/",
+    "independent_table_source": "https://www.espn.com/soccer/standings/_/league/eng.2",
+    "current_near_term_fixtures_source": "https://www.espn.com/soccer/fixtures/_/league/eng.2",
+    "verification": "131 finished results through 17 Oct; current EFL and ESPN 24-club standings match all score-derived fields after Southampton four-point deduction; next fixture Wolverhampton Wanderers v Portsmouth remained scheduled for 20 Oct 18:45 UTC (15:45 BRT)."
+  }
 }

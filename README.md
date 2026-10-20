@@ -15,7 +15,7 @@ The validator rebuilds a match-level table from the **131 final-score rows** and
 
 ## Snapshot
 
-Cutoff: **18 October 2026, 12:05 America/Sao_Paulo (BRT, UTC−03:00)**. Every played result included was full-time by the cutoff. The future-fixture file is intentionally bounded to **19 October–1 November 2026**.
+Cutoff: **20 October 2026, 13:38:26 America/Sao_Paulo (BRT, UTC−03:00)**. The latest final in the dataset is 17 October; the next fixture, Wolverhampton Wanderers–Portsmouth at 18:45 UTC (15:45 BRT) on 20 October, was still scheduled at cutoff. The future-fixture file is intentionally bounded to **20 October–1 November 2026**.
 
 ## Files
 

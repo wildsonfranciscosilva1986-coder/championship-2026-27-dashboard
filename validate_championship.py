@@ -4,7 +4,7 @@ import csv, json, collections
 from pathlib import Path
 ROOT=Path(__file__).parent
 D=ROOT/'data'
-cutoff='2026-10-18 12:05 America/Sao_Paulo'
+cutoff='2026-10-20 13:38:26 America/Sao_Paulo'
 def read(name):
     with open(D/name,encoding='utf-8',newline='') as f: return list(csv.DictReader(f))
 fixtures=read('fixtures_results_2026_27.csv')
@@ -51,7 +51,7 @@ report={
  'southampton_points_adjustment':-4,'derived_table_matches_efl_and_espn':True,
  'checked_fields':['played','points (deduction-adjusted)','W','D','L','GF','GA','GD'],
  'upcoming_rows':len(read('upcoming_fixtures_through_2026-11-01.csv')),
- 'limitations':['Upcoming schedule coverage is through 2026-11-01 only.','EFL live competition page returned stale historical table data; current official EFL post-match table article was used for the official standings.','ESPN schedule/match feed provided independent score and near-term fixture records.']}
+ 'limitations':['Upcoming schedule coverage is through 2026-11-01 only and is not a full-season fixture list.','The EFL live competition page returned stale historical table data; the latest official 18 October EFL post-match table article, fetched again on 20 October, was used for the official standings.','ESPN standings and near-term schedule were checked again on 20 October; the next match on 20 October remained scheduled at cutoff.']}
 (ROOT/'validation.json').write_text(json.dumps(report,indent=2)+'\n')
 (ROOT/'validation.txt').write_text('PASS — '+json.dumps(report,indent=2)+'\n')
 print(json.dumps(report,indent=2))

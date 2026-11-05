@@ -1,0 +1,42 @@
+name: Refresh EFL Championship dashboard
+on:
+  schedule:
+    - cron: '13 9 * * *' # 06:13 BRT
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: efl-championship-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies and Chromium
+        run: |
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Refresh ESPN full-time scores and current official EFL standings
+        run: python refresh_championship.py
+      - name: Rebuild dashboard
+        run: python build_dashboard.py
+      - name: Validate all scores and 24-club official table
+        run: python validate_championship.py
+      - name: Publish only validated data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html build_dashboard.py refresh_championship.py validate_championship.py requirements.txt README.md source_log.json validation.json validation.txt validation_report.md .github/workflows/championship-refresh.yml data/ source_snapshots/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh validated EFL Championship dashboard'
+            git push origin main
+          else
+            echo 'No verified changes to publish.'
+          fi

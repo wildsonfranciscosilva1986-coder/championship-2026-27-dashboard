@@ -1,40 +1,25 @@
 # English Championship 2026/27 — DIN Mercado Dashboard
 
-A standalone, mobile-first Championship dashboard using the dark Brazil-series palette. This project contains no Premier League or other-division data.
+Standalone mobile-first Championship dashboard with a daily validated refresh. It stays separate from the Premier League and every other division.
 
-## Build and validation
+## Automatic update
 
-From this directory:
+GitHub Actions runs daily at 06:13 BRT and can also be started manually. The workflow fetches the ESPN match scoreboard by each date in the published season calendar, accepts only `STATUS_FULL_TIME` events with `completed=true` and integer scores, loads the current rendered EFL Championship table, and reconciles all 24 clubs (P/W/D/L/GF/GA/GD/points, with Southampton's official −4 deduction). It stops before modifying files or publishing if the EFL page fails, club/season checks fail, an existing final conflicts, or any score-derived field differs from the current official EFL table. Scheduled/postponed matches remain unscored. On successful validation the standalone page and snapshot files are committed to the existing Pages repository.
+
+A separate daily Zapia job runs at 06:43 BRT (after the GitHub refresh), copies the already-published, validated `index.html` to the private Google Drive folder `DIN Mercado — Championship 2026-27`, replaces the same Drive file, then downloads it and verifies SHA-256. It does not upload unless the same-day GitHub run succeeded and the public cutoff matches the validated metadata.
+
+## Manual build and validation
 
 ```bash
-python3 validate_championship.py
-python3 build_dashboard.py
+python -m pip install -r requirements.txt
+python -m playwright install chromium
+python refresh_championship.py
+python build_dashboard.py
+python validate_championship.py
 ```
 
-The validator rebuilds a match-level table from the **131 final-score rows** and compares P, points, W–D–L, GF, GA and GD against both the official EFL table and ESPN's independent table. It applies the EFL's official four-point 2026/27 deduction to Southampton. It fails closed on any mismatch or unconfirmed score. The dashboard reports 131 completed fixtures out of the 552-match season, goal/BTTS/Over 2.5 rates with denominators, and the home/draw/away split; its Fixtures tab browses all 156 available records and filters by status or club.
+The refresh command fails closed before replacing source files unless it can read 24 current EFL table rows and reconcile the score-derived table. The Southampton four-point deduction is applied only to points, never to match W-D-L. Final scores are accepted only with explicit ESPN full-time status; postponed/live/unplayed games stay out of statistics.
 
-## Snapshot
+## Scope and limitations
 
-Cutoff: **20 October 2026, 13:38:26 America/Sao_Paulo (BRT, UTC−03:00)**. The latest final in the dataset is 17 October; the next fixture, Wolverhampton Wanderers–Portsmouth at 18:45 UTC (15:45 BRT) on 20 October, was still scheduled at cutoff. The future-fixture file is intentionally bounded to **20 October–1 November 2026**.
-
-## Files
-
-- `index.html` — deployable standalone app, bundled data, Brazil-series palette and mobile-first UI. Includes league KPIs, standings/zones, recent and upcoming fixtures, club form/venue splits, Top 5 rankings, H2H and interactive 1-X-2/goal estimates, plus a filterable full available fixtures/results view.
-- `championship-mark.svg` — distinct project identity asset.
-- `data/fixtures_results_2026_27.csv` — 131 final scores from ESPN's match feed; links and feed IDs retained.
-- `data/efl_official_table.csv` — official EFL standings snapshot.
-- `data/independent_espn_table.csv` — independent standings cross-check.
-- `data/upcoming_fixtures_through_2026-11-01.csv` — 25 scheduled fixtures through 1 November.
-- `build_dashboard.py` — rebuilds the standalone page from the separate source files.
-- `validate_championship.py` / `validation.json` / `validation.txt` / `validation_report.md` — reproducible reconciliation and its latest report.
-- `source_log.json` — source URLs, cutoff, validation scope, and data limitations. Source URLs are retained; raw response snapshots were not present in the existing project files.
-
-No `refresh_championship.py` updater is included in this package; the CSV sources must be refreshed and validated before rebuilding a later snapshot.
-
-## Data policy and known limitations
-
-- Official EFL standings are authoritative. EFL's live competition URL returned a stale 2023/24 table, so the current official EFL post-match article table was used instead. This is documented in the interface and source log.
-- ESPN's public scoreboard was used as an independent match-level score feed. All scores in the frozen dataset were reported full-time and the resulting table reconciles exactly with the EFL table after the Southampton deduction.
-- The official EFL site did not expose a stable, machine-readable full-season fixture table in this retrieval. The published upcoming window therefore uses ESPN's posted fixture list and is clearly bounded; it is not represented as the whole remaining season.
-- The BBC standings page was consulted, but its extracted table removed the club labels, so it was not used as the row-level table cross-check.
-- This is a data dashboard, not betting advice. Model estimates use small current-season samples.
+The full-season 552-match pairing list is not represented as complete. Upcoming fixtures shown are only the current ESPN-published horizon, which can change and is not represented as the whole season. The EFL official table is accessed through the live rendered page with Playwright; the refresh fails closed if that page cannot yield all 24 rows or the score-derived table differs. Results come from the ESPN match-level scoreboard and are reconciled against the rendered official EFL table; ESPN's live standings may lag and are not used as the authoritative table. Matchup rates are descriptive early-season estimates, not betting advice.

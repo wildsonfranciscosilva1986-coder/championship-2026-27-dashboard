@@ -1,0 +1,385 @@
+fixture_id,date_utc,home,away,home_goals,away_goals,status,source_url
+401880167,2026-11-06T20:00Z,Derby County,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880167
+401880161,2026-11-07T12:30Z,Wrexham,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880161
+401880166,2026-11-07T12:30Z,Portsmouth,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880166
+401880170,2026-11-07T12:30Z,Bristol City,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880170
+401880162,2026-11-07T15:00Z,West Bromwich Albion,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880162
+401880163,2026-11-07T15:00Z,Watford,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880163
+401880164,2026-11-07T15:00Z,Queens Park Rangers,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880164
+401880165,2026-11-07T15:00Z,Preston North End,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880165
+401880168,2026-11-07T15:00Z,Charlton Athletic,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880168
+401880169,2026-11-07T15:00Z,Cardiff City,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880169
+401880171,2026-11-07T15:00Z,Blackburn Rovers,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880171
+401880172,2026-11-07T15:00Z,Birmingham City,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880172
+401880153,2026-11-21T12:30Z,Southampton,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880153
+401880155,2026-11-21T12:30Z,Norwich City,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880155
+401880156,2026-11-21T12:30Z,Millwall,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880156
+401880149,2026-11-21T15:00Z,Wolverhampton Wanderers,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880149
+401880150,2026-11-21T15:00Z,West Ham United,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880150
+401880151,2026-11-21T15:00Z,Swansea City,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880151
+401880152,2026-11-21T15:00Z,Stoke City,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880152
+401880154,2026-11-21T15:00Z,Sheffield United,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880154
+401880157,2026-11-21T15:00Z,Middlesbrough,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880157
+401880158,2026-11-21T15:00Z,Lincoln City,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880158
+401880160,2026-11-21T15:00Z,Bolton Wanderers,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880160
+401880159,2026-11-22T12:00Z,Burnley,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880159
+401880142,2026-11-24T19:45Z,Sheffield United,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880142
+401880143,2026-11-24T19:45Z,Portsmouth,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880143
+401880144,2026-11-24T19:45Z,Norwich City,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880144
+401880145,2026-11-24T19:45Z,Middlesbrough,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880145
+401880146,2026-11-24T19:45Z,Charlton Athletic,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880146
+401880147,2026-11-24T19:45Z,Cardiff City,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880147
+401880148,2026-11-24T19:45Z,Bristol City,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880148
+401880141,2026-11-24T20:00Z,Wolverhampton Wanderers,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880141
+401880137,2026-11-25T19:45Z,Watford,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880137
+401880139,2026-11-25T19:45Z,Burnley,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880139
+401880140,2026-11-25T19:45Z,Bolton Wanderers,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880140
+401880138,2026-11-25T20:00Z,Stoke City,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880138
+401880129,2026-11-27T20:00Z,Southampton,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880129
+401880131,2026-11-28T12:30Z,Preston North End,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880131
+401880133,2026-11-28T12:30Z,Lincoln City,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880133
+401880135,2026-11-28T12:30Z,Blackburn Rovers,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880135
+401880125,2026-11-28T15:00Z,Wrexham,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880125
+401880126,2026-11-28T15:00Z,West Ham United,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880126
+401880127,2026-11-28T15:00Z,West Bromwich Albion,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880127
+401880130,2026-11-28T15:00Z,Queens Park Rangers,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880130
+401880132,2026-11-28T15:00Z,Millwall,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880132
+401880134,2026-11-28T15:00Z,Derby County,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880134
+401880136,2026-11-28T15:00Z,Birmingham City,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880136
+401880128,2026-11-29T12:00Z,Swansea City,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880128
+401880116,2026-12-04T20:00Z,Sheffield United,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880116
+401880114,2026-12-05T12:30Z,Watford,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880114
+401880119,2026-12-05T12:30Z,Middlesbrough,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880119
+401880123,2026-12-05T12:30Z,Bristol City,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880123
+401880124,2026-12-05T12:30Z,Bolton Wanderers,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880124
+401880113,2026-12-05T15:00Z,Wolverhampton Wanderers,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880113
+401880115,2026-12-05T15:00Z,Stoke City,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880115
+401880117,2026-12-05T15:00Z,Portsmouth,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880117
+401880118,2026-12-05T15:00Z,Norwich City,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880118
+401880120,2026-12-05T15:00Z,Charlton Athletic,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880120
+401880121,2026-12-05T15:00Z,Cardiff City,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880121
+401880122,2026-12-06T12:00Z,Burnley,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880122
+401880105,2026-12-08T19:45Z,Wrexham,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880105
+401880107,2026-12-08T19:45Z,West Bromwich Albion,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880107
+401880108,2026-12-08T19:45Z,Swansea City,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880108
+401880109,2026-12-08T19:45Z,Queens Park Rangers,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880109
+401880110,2026-12-08T19:45Z,Millwall,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880110
+401880111,2026-12-08T19:45Z,Blackburn Rovers,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880111
+401880106,2026-12-08T20:00Z,West Ham United,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880106
+401880112,2026-12-08T20:00Z,Birmingham City,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880112
+401880102,2026-12-09T19:45Z,Preston North End,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880102
+401880103,2026-12-09T19:45Z,Lincoln City,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880103
+401880104,2026-12-09T19:45Z,Derby County,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880104
+401880101,2026-12-09T20:00Z,Southampton,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880101
+401880099,2026-12-11T20:00Z,Bolton Wanderers,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880099
+401880091,2026-12-12T12:30Z,Stoke City,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880091
+401880093,2026-12-12T12:30Z,Queens Park Rangers,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880093
+401880094,2026-12-12T12:30Z,Preston North End,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880094
+401880089,2026-12-12T15:00Z,Wolverhampton Wanderers,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880089
+401880090,2026-12-12T15:00Z,West Ham United,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880090
+401880092,2026-12-12T15:00Z,Sheffield United,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880092
+401880095,2026-12-12T15:00Z,Portsmouth,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880095
+401880097,2026-12-12T15:00Z,Charlton Athletic,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880097
+401880098,2026-12-12T15:00Z,Cardiff City,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880098
+401880100,2026-12-12T15:00Z,Blackburn Rovers,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880100
+401880096,2026-12-13T14:00Z,Lincoln City,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880096
+401880078,2026-12-18T20:00Z,West Bromwich Albion,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880078
+401880079,2026-12-19T12:30Z,Watford,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880079
+401880080,2026-12-19T12:30Z,Swansea City,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880080
+401880083,2026-12-19T12:30Z,Millwall,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880083
+401880087,2026-12-19T12:30Z,Bristol City,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880087
+401880088,2026-12-19T12:30Z,Birmingham City,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880088
+401880077,2026-12-19T15:00Z,Wrexham,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880077
+401880081,2026-12-19T15:00Z,Southampton,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880081
+401880082,2026-12-19T15:00Z,Norwich City,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880082
+401880084,2026-12-19T15:00Z,Middlesbrough,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880084
+401880085,2026-12-19T15:00Z,Derby County,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880085
+401880086,2026-12-19T15:00Z,Burnley,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880086
+401879681,2026-12-26T12:30Z,Sheffield United,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879681
+401880075,2026-12-26T12:30Z,Bolton Wanderers,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880075
+401879678,2026-12-26T15:00Z,Wolverhampton Wanderers,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879678
+401879679,2026-12-26T15:00Z,West Ham United,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879679
+401879680,2026-12-26T15:00Z,Stoke City,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879680
+401880069,2026-12-26T15:00Z,Queens Park Rangers,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880069
+401880070,2026-12-26T15:00Z,Preston North End,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880070
+401880071,2026-12-26T15:00Z,Portsmouth,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880071
+401880072,2026-12-26T15:00Z,Lincoln City,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880072
+401880073,2026-12-26T15:00Z,Charlton Athletic,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880073
+401880074,2026-12-26T15:00Z,Cardiff City,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880074
+401880076,2026-12-26T15:00Z,Blackburn Rovers,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880076
+401879666,2026-12-29T18:00Z,Wrexham,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879666
+401879667,2026-12-29T19:45Z,West Bromwich Albion,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879667
+401879668,2026-12-29T19:45Z,Watford,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879668
+401879669,2026-12-29T19:45Z,Swansea City,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879669
+401879671,2026-12-29T19:45Z,Norwich City,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879671
+401879672,2026-12-29T19:45Z,Millwall,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879672
+401879673,2026-12-29T19:45Z,Middlesbrough,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879673
+401879674,2026-12-29T19:45Z,Derby County,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879674
+401879675,2026-12-29T19:45Z,Burnley,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879675
+401879676,2026-12-29T19:45Z,Bristol City,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879676
+401879677,2026-12-29T20:00Z,Birmingham City,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879677
+401879670,2026-12-29T20:15Z,Southampton,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879670
+401879660,2027-01-01T12:30Z,Millwall,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879660
+401879657,2027-01-01T15:00Z,Swansea City,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879657
+401879658,2027-01-01T15:00Z,Southampton,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879658
+401879659,2027-01-01T15:00Z,Norwich City,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879659
+401879661,2027-01-01T15:00Z,Middlesbrough,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879661
+401879662,2027-01-01T15:00Z,Derby County,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879662
+401879664,2027-01-01T15:00Z,Bristol City,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879664
+401879665,2027-01-01T15:00Z,Birmingham City,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879665
+401880562,2027-01-01T15:00Z,Watford,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880562
+401880563,2027-01-01T15:00Z,West Bromwich Albion,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880563
+401880564,2027-01-01T15:00Z,Wrexham,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880564
+401879663,2027-01-01T17:30Z,Burnley,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401879663
+401880565,2027-01-16T15:00Z,Blackburn Rovers,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880565
+401880566,2027-01-16T15:00Z,Bolton Wanderers,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880566
+401880567,2027-01-16T15:00Z,Cardiff City,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880567
+401880568,2027-01-16T15:00Z,Charlton Athletic,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880568
+401880569,2027-01-16T15:00Z,Lincoln City,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880569
+401880570,2027-01-16T15:00Z,Portsmouth,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880570
+401880571,2027-01-16T15:00Z,Preston North End,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880571
+401880572,2027-01-16T15:00Z,Sheffield United,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880572
+401880573,2027-01-16T15:00Z,Queens Park Rangers,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880573
+401880574,2027-01-16T15:00Z,Stoke City,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880574
+401880575,2027-01-16T15:00Z,West Ham United,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880575
+401880576,2027-01-16T15:00Z,Wolverhampton Wanderers,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880576
+401880577,2027-01-23T15:00Z,Birmingham City,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880577
+401880578,2027-01-23T15:00Z,Blackburn Rovers,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880578
+401880579,2027-01-23T15:00Z,Bristol City,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880579
+401880580,2027-01-23T15:00Z,Cardiff City,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880580
+401880581,2027-01-23T15:00Z,Charlton Athletic,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880581
+401880582,2027-01-23T15:00Z,Derby County,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880582
+401880583,2027-01-23T15:00Z,Portsmouth,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880583
+401880584,2027-01-23T15:00Z,Preston North End,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880584
+401880585,2027-01-23T15:00Z,Queens Park Rangers,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880585
+401880586,2027-01-23T15:00Z,Watford,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880586
+401880587,2027-01-23T15:00Z,West Bromwich Albion,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880587
+401880588,2027-01-23T15:00Z,Wrexham,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880588
+401880561,2027-01-26T19:45Z,Stoke City,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880561
+401880589,2027-01-26T19:45Z,Bolton Wanderers,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880589
+401880590,2027-01-26T19:45Z,Burnley,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880590
+401880591,2027-01-26T19:45Z,Lincoln City,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880591
+401880592,2027-01-26T19:45Z,Millwall,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880592
+401880593,2027-01-26T19:45Z,Norwich City,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880593
+401880594,2027-01-26T19:45Z,Sheffield United,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880594
+401880595,2027-01-26T19:45Z,Southampton,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880595
+401880557,2027-01-27T19:45Z,Wolverhampton Wanderers,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880557
+401880558,2027-01-27T19:45Z,West Ham United,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880558
+401880559,2027-01-27T19:45Z,Swansea City,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880559
+401880560,2027-01-27T19:45Z,Middlesbrough,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880560
+401880545,2027-01-30T15:00Z,Wolverhampton Wanderers,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880545
+401880546,2027-01-30T15:00Z,West Ham United,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880546
+401880547,2027-01-30T15:00Z,Swansea City,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880547
+401880548,2027-01-30T15:00Z,Stoke City,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880548
+401880549,2027-01-30T15:00Z,Southampton,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880549
+401880550,2027-01-30T15:00Z,Sheffield United,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880550
+401880551,2027-01-30T15:00Z,Norwich City,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880551
+401880552,2027-01-30T15:00Z,Millwall,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880552
+401880553,2027-01-30T15:00Z,Middlesbrough,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880553
+401880554,2027-01-30T15:00Z,Lincoln City,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880554
+401880555,2027-01-30T15:00Z,Burnley,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880555
+401880556,2027-01-30T15:00Z,Bolton Wanderers,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880556
+401880533,2027-02-06T15:00Z,Wrexham,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880533
+401880534,2027-02-06T15:00Z,West Bromwich Albion,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880534
+401880535,2027-02-06T15:00Z,Watford,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880535
+401880536,2027-02-06T15:00Z,Queens Park Rangers,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880536
+401880537,2027-02-06T15:00Z,Preston North End,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880537
+401880538,2027-02-06T15:00Z,Portsmouth,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880538
+401880539,2027-02-06T15:00Z,Derby County,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880539
+401880540,2027-02-06T15:00Z,Charlton Athletic,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880540
+401880541,2027-02-06T15:00Z,Cardiff City,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880541
+401880542,2027-02-06T15:00Z,Bristol City,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880542
+401880543,2027-02-06T15:00Z,Blackburn Rovers,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880543
+401880544,2027-02-06T15:00Z,Birmingham City,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880544
+401880521,2027-02-13T15:00Z,Wrexham,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880521
+401880522,2027-02-13T15:00Z,Wolverhampton Wanderers,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880522
+401880523,2027-02-13T15:00Z,Stoke City,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880523
+401880524,2027-02-13T15:00Z,Queens Park Rangers,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880524
+401880525,2027-02-13T15:00Z,Portsmouth,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880525
+401880526,2027-02-13T15:00Z,Norwich City,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880526
+401880527,2027-02-13T15:00Z,Millwall,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880527
+401880528,2027-02-13T15:00Z,Lincoln City,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880528
+401880529,2027-02-13T15:00Z,Cardiff City,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880529
+401880530,2027-02-13T15:00Z,Burnley,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880530
+401880531,2027-02-13T15:00Z,Bristol City,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880531
+401880532,2027-02-13T15:00Z,Birmingham City,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880532
+401880513,2027-02-16T19:45Z,West Ham United,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880513
+401880514,2027-02-16T19:45Z,West Bromwich Albion,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880514
+401880515,2027-02-16T19:45Z,Watford,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880515
+401880516,2027-02-16T19:45Z,Sheffield United,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880516
+401880517,2027-02-16T19:45Z,Preston North End,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880517
+401880518,2027-02-16T19:45Z,Derby County,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880518
+401880519,2027-02-16T19:45Z,Charlton Athletic,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880519
+401880520,2027-02-16T19:45Z,Blackburn Rovers,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880520
+401880509,2027-02-17T19:45Z,Swansea City,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880509
+401880510,2027-02-17T19:45Z,Southampton,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880510
+401880511,2027-02-17T19:45Z,Middlesbrough,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880511
+401880512,2027-02-17T19:45Z,Bolton Wanderers,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880512
+401880498,2027-02-20T15:00Z,West Bromwich Albion,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880498
+401880499,2027-02-20T15:00Z,Watford,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880499
+401880500,2027-02-20T15:00Z,Swansea City,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880500
+401880501,2027-02-20T15:00Z,Southampton,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880501
+401880502,2027-02-20T15:00Z,Sheffield United,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880502
+401880503,2027-02-20T15:00Z,Preston North End,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880503
+401880504,2027-02-20T15:00Z,Middlesbrough,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880504
+401880505,2027-02-20T15:00Z,Derby County,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880505
+401880506,2027-02-20T15:00Z,Charlton Athletic,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880506
+401880507,2027-02-20T15:00Z,Bolton Wanderers,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880507
+401880508,2027-02-20T15:00Z,Blackburn Rovers,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880508
+401880497,2027-02-21T12:00Z,West Ham United,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880497
+401880485,2027-02-27T15:00Z,Wrexham,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880485
+401880486,2027-02-27T15:00Z,Wolverhampton Wanderers,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880486
+401880487,2027-02-27T15:00Z,Stoke City,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880487
+401880488,2027-02-27T15:00Z,Queens Park Rangers,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880488
+401880490,2027-02-27T15:00Z,Norwich City,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880490
+401880491,2027-02-27T15:00Z,Millwall,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880491
+401880492,2027-02-27T15:00Z,Lincoln City,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880492
+401880493,2027-02-27T15:00Z,Cardiff City,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880493
+401880494,2027-02-27T15:00Z,Burnley,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880494
+401880495,2027-02-27T15:00Z,Bristol City,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880495
+401880496,2027-02-27T15:00Z,Birmingham City,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880496
+401880489,2027-02-28T12:00Z,Portsmouth,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880489
+401880477,2027-03-02T19:45Z,Watford,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880477
+401880478,2027-03-02T19:45Z,Norwich City,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880478
+401880479,2027-03-02T19:45Z,Middlesbrough,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880479
+401880480,2027-03-02T19:45Z,Charlton Athletic,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880480
+401880481,2027-03-02T19:45Z,Cardiff City,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880481
+401880482,2027-03-02T19:45Z,Burnley,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880482
+401880483,2027-03-02T19:45Z,Bristol City,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880483
+401880484,2027-03-02T19:45Z,Bolton Wanderers,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880484
+401880473,2027-03-03T19:45Z,Wolverhampton Wanderers,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880473
+401880474,2027-03-03T19:45Z,Stoke City,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880474
+401880475,2027-03-03T19:45Z,Sheffield United,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880475
+401880476,2027-03-03T19:45Z,Portsmouth,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880476
+401880461,2027-03-06T15:00Z,Wrexham,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880461
+401880462,2027-03-06T15:00Z,West Ham United,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880462
+401880463,2027-03-06T15:00Z,West Bromwich Albion,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880463
+401880464,2027-03-06T15:00Z,Swansea City,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880464
+401880465,2027-03-06T15:00Z,Southampton,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880465
+401880466,2027-03-06T15:00Z,Queens Park Rangers,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880466
+401880467,2027-03-06T15:00Z,Preston North End,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880467
+401880468,2027-03-06T15:00Z,Millwall,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880468
+401880469,2027-03-06T15:00Z,Lincoln City,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880469
+401880470,2027-03-06T15:00Z,Derby County,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880470
+401880471,2027-03-06T15:00Z,Blackburn Rovers,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880471
+401880472,2027-03-06T15:00Z,Birmingham City,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880472
+401880449,2027-03-13T15:00Z,Wolverhampton Wanderers,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880449
+401880450,2027-03-13T15:00Z,Watford,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880450
+401880451,2027-03-13T15:00Z,Stoke City,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880451
+401880452,2027-03-13T15:00Z,Sheffield United,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880452
+401880453,2027-03-13T15:00Z,Portsmouth,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880453
+401880454,2027-03-13T15:00Z,Norwich City,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880454
+401880455,2027-03-13T15:00Z,Middlesbrough,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880455
+401880456,2027-03-13T15:00Z,Charlton Athletic,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880456
+401880457,2027-03-13T15:00Z,Cardiff City,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880457
+401880458,2027-03-13T15:00Z,Burnley,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880458
+401880459,2027-03-13T15:00Z,Bristol City,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880459
+401880460,2027-03-13T15:00Z,Bolton Wanderers,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880460
+401880441,2027-03-16T19:45Z,Wrexham,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880441
+401880442,2027-03-16T19:45Z,West Bromwich Albion,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880442
+401880443,2027-03-16T19:45Z,Swansea City,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880443
+401880444,2027-03-16T19:45Z,Southampton,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880444
+401880445,2027-03-16T19:45Z,Queens Park Rangers,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880445
+401880446,2027-03-16T19:45Z,Preston North End,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880446
+401880447,2027-03-16T19:45Z,Lincoln City,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880447
+401880448,2027-03-16T19:45Z,Derby County,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880448
+401880437,2027-03-17T19:45Z,West Ham United,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880437
+401880438,2027-03-17T19:45Z,Millwall,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880438
+401880439,2027-03-17T19:45Z,Blackburn Rovers,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880439
+401880440,2027-03-17T20:00Z,Birmingham City,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880440
+401880425,2027-03-20T15:00Z,Wrexham,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880425
+401880426,2027-03-20T15:00Z,West Bromwich Albion,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880426
+401880427,2027-03-20T15:00Z,Watford,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880427
+401880428,2027-03-20T15:00Z,Swansea City,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880428
+401880429,2027-03-20T15:00Z,Southampton,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880429
+401880430,2027-03-20T15:00Z,Norwich City,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880430
+401880431,2027-03-20T15:00Z,Millwall,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880431
+401880432,2027-03-20T15:00Z,Middlesbrough,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880432
+401880433,2027-03-20T15:00Z,Derby County,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880433
+401880434,2027-03-20T15:00Z,Burnley,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880434
+401880435,2027-03-20T15:00Z,Bristol City,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880435
+401880436,2027-03-20T15:00Z,Birmingham City,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880436
+401880421,2027-04-03T11:30Z,Charlton Athletic,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880421
+401880413,2027-04-03T14:00Z,Wolverhampton Wanderers,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880413
+401880414,2027-04-03T14:00Z,West Ham United,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880414
+401880415,2027-04-03T14:00Z,Stoke City,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880415
+401880416,2027-04-03T14:00Z,Sheffield United,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880416
+401880417,2027-04-03T14:00Z,Queens Park Rangers,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880417
+401880418,2027-04-03T14:00Z,Preston North End,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880418
+401880419,2027-04-03T14:00Z,Portsmouth,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880419
+401880420,2027-04-03T14:00Z,Lincoln City,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880420
+401880422,2027-04-03T14:00Z,Cardiff City,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880422
+401880423,2027-04-03T14:00Z,Bolton Wanderers,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880423
+401880424,2027-04-03T14:00Z,Blackburn Rovers,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880424
+401880405,2027-04-06T18:45Z,West Ham United,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880405
+401880406,2027-04-06T18:45Z,Swansea City,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880406
+401880407,2027-04-06T18:45Z,Stoke City,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880407
+401880408,2027-04-06T18:45Z,Queens Park Rangers,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880408
+401880409,2027-04-06T18:45Z,Portsmouth,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880409
+401880410,2027-04-06T18:45Z,Millwall,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880410
+401880411,2027-04-06T18:45Z,Lincoln City,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880411
+401880412,2027-04-06T18:45Z,Burnley,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880412
+401880401,2027-04-07T18:45Z,West Bromwich Albion,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880401
+401880402,2027-04-07T18:45Z,Sheffield United,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880402
+401880403,2027-04-07T18:45Z,Preston North End,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880403
+401880404,2027-04-07T19:00Z,Birmingham City,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880404
+401880389,2027-04-10T14:00Z,Wrexham,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880389
+401880390,2027-04-10T14:00Z,Wolverhampton Wanderers,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880390
+401880391,2027-04-10T14:00Z,Watford,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880391
+401880392,2027-04-10T14:00Z,Southampton,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880392
+401880393,2027-04-10T14:00Z,Norwich City,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880393
+401880394,2027-04-10T14:00Z,Middlesbrough,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880394
+401880395,2027-04-10T14:00Z,Derby County,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880395
+401880396,2027-04-10T14:00Z,Charlton Athletic,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880396
+401880397,2027-04-10T14:00Z,Cardiff City,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880397
+401880398,2027-04-10T14:00Z,Bristol City,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880398
+401880399,2027-04-10T14:00Z,Bolton Wanderers,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880399
+401880400,2027-04-10T14:00Z,Blackburn Rovers,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880400
+401880377,2027-04-17T14:00Z,West Ham United,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880377
+401880378,2027-04-17T14:00Z,West Bromwich Albion,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880378
+401880379,2027-04-17T14:00Z,Swansea City,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880379
+401880380,2027-04-17T14:00Z,Stoke City,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880380
+401880381,2027-04-17T14:00Z,Sheffield United,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880381
+401880382,2027-04-17T14:00Z,Queens Park Rangers,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880382
+401880383,2027-04-17T14:00Z,Preston North End,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880383
+401880384,2027-04-17T14:00Z,Portsmouth,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880384
+401880385,2027-04-17T14:00Z,Millwall,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880385
+401880386,2027-04-17T14:00Z,Lincoln City,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880386
+401880387,2027-04-17T14:00Z,Burnley,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880387
+401880388,2027-04-17T14:00Z,Birmingham City,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880388
+401880369,2027-04-20T18:45Z,Wrexham,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880369
+401880370,2027-04-20T18:45Z,Wolverhampton Wanderers,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880370
+401880371,2027-04-20T18:45Z,Southampton,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880371
+401880372,2027-04-20T18:45Z,Norwich City,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880372
+401880373,2027-04-20T18:45Z,Middlesbrough,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880373
+401880374,2027-04-20T18:45Z,Derby County,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880374
+401880375,2027-04-20T18:45Z,Charlton Athletic,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880375
+401880376,2027-04-20T18:45Z,Bolton Wanderers,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880376
+401880365,2027-04-21T18:45Z,Watford,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880365
+401880366,2027-04-21T18:45Z,Cardiff City,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880366
+401880367,2027-04-21T18:45Z,Bristol City,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880367
+401880368,2027-04-21T18:45Z,Blackburn Rovers,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880368
+401880353,2027-04-24T14:00Z,Wolverhampton Wanderers,Queens Park Rangers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880353
+401880354,2027-04-24T14:00Z,Watford,Birmingham City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880354
+401880355,2027-04-24T14:00Z,Stoke City,Lincoln City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880355
+401880356,2027-04-24T14:00Z,Sheffield United,Millwall,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880356
+401880357,2027-04-24T14:00Z,Portsmouth,Preston North End,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880357
+401880358,2027-04-24T14:00Z,Norwich City,Blackburn Rovers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880358
+401880359,2027-04-24T14:00Z,Middlesbrough,West Ham United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880359
+401880360,2027-04-24T14:00Z,Charlton Athletic,Wrexham,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880360
+401880361,2027-04-24T14:00Z,Cardiff City,West Bromwich Albion,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880361
+401880362,2027-04-24T14:00Z,Burnley,Southampton,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880362
+401880363,2027-04-24T14:00Z,Bristol City,Derby County,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880363
+401880364,2027-04-24T14:00Z,Bolton Wanderers,Swansea City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880364
+401880341,2027-05-01T11:30Z,Wrexham,Bristol City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880341
+401880342,2027-05-01T11:30Z,West Ham United,Portsmouth,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880342
+401880343,2027-05-01T11:30Z,West Bromwich Albion,Bolton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880343
+401880344,2027-05-01T11:30Z,Swansea City,Middlesbrough,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880344
+401880345,2027-05-01T11:30Z,Southampton,Sheffield United,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880345
+401880346,2027-05-01T11:30Z,Queens Park Rangers,Norwich City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880346
+401880347,2027-05-01T11:30Z,Preston North End,Cardiff City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880347
+401880348,2027-05-01T11:30Z,Millwall,Stoke City,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880348
+401880349,2027-05-01T11:30Z,Lincoln City,Charlton Athletic,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880349
+401880350,2027-05-01T11:30Z,Derby County,Wolverhampton Wanderers,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880350
+401880351,2027-05-01T11:30Z,Blackburn Rovers,Watford,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880351
+401880352,2027-05-01T11:30Z,Birmingham City,Burnley,,,scheduled,https://www.espn.com/soccer/match/_/gameId/401880352

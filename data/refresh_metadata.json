@@ -1,0 +1,187 @@
+{
+  "cutoff_brt": "2026-11-04T23:53-03:00",
+  "cutoff_utc": "2026-11-05T02:53:34Z",
+  "finished": 168,
+  "upcoming": 384,
+  "official_efl_url": "https://www.efl.com/competitions/efl-championship/",
+  "official_table": "24/24 match score-derived; -4 Southampton",
+  "feed": "ESPN scoreboard, calendar dates queried individually",
+  "source_snapshots": [
+    {
+      "date": "2026-08-14",
+      "events": 1
+    },
+    {
+      "date": "2026-08-15",
+      "events": 8
+    },
+    {
+      "date": "2026-08-16",
+      "events": 2
+    },
+    {
+      "date": "2026-08-17",
+      "events": 1
+    },
+    {
+      "date": "2026-08-22",
+      "events": 11
+    },
+    {
+      "date": "2026-08-23",
+      "events": 1
+    },
+    {
+      "date": "2026-08-28",
+      "events": 1
+    },
+    {
+      "date": "2026-08-29",
+      "events": 11
+    },
+    {
+      "date": "2026-09-01",
+      "events": 8
+    },
+    {
+      "date": "2026-09-02",
+      "events": 4
+    },
+    {
+      "date": "2026-09-05",
+      "events": 11
+    },
+    {
+      "date": "2026-09-06",
+      "events": 1
+    },
+    {
+      "date": "2026-09-08",
+      "events": 6
+    },
+    {
+      "date": "2026-09-09",
+      "events": 3
+    },
+    {
+      "date": "2026-09-11",
+      "events": 1
+    },
+    {
+      "date": "2026-09-12",
+      "events": 10
+    },
+    {
+      "date": "2026-09-13",
+      "events": 1
+    },
+    {
+      "date": "2026-09-15",
+      "events": 2
+    },
+    {
+      "date": "2026-09-18",
+      "events": 1
+    },
+    {
+      "date": "2026-09-19",
+      "events": 9
+    },
+    {
+      "date": "2026-09-20",
+      "events": 2
+    },
+    {
+      "date": "2026-10-09",
+      "events": 1
+    },
+    {
+      "date": "2026-10-10",
+      "events": 10
+    },
+    {
+      "date": "2026-10-11",
+      "events": 1
+    },
+    {
+      "date": "2026-10-13",
+      "events": 8
+    },
+    {
+      "date": "2026-10-14",
+      "events": 4
+    },
+    {
+      "date": "2026-10-16",
+      "events": 1
+    },
+    {
+      "date": "2026-10-17",
+      "events": 11
+    },
+    {
+      "date": "2026-10-20",
+      "events": 1
+    },
+    {
+      "date": "2026-10-23",
+      "events": 1
+    },
+    {
+      "date": "2026-10-24",
+      "events": 11
+    },
+    {
+      "date": "2026-10-30",
+      "events": 1
+    },
+    {
+      "date": "2026-10-31",
+      "events": 11
+    },
+    {
+      "date": "2026-11-03",
+      "events": 9
+    },
+    {
+      "date": "2026-11-04",
+      "events": 3
+    },
+    {
+      "date": "2026-11-06",
+      "events": 1
+    },
+    {
+      "date": "2026-11-07",
+      "events": 11
+    },
+    {
+      "date": "2026-11-21",
+      "events": 11
+    },
+    {
+      "date": "2026-11-22",
+      "events": 1
+    },
+    {
+      "date": "2026-11-24",
+      "events": 8
+    },
+    {
+      "date": "2026-11-25",
+      "events": 4
+    }
+  ],
+  "coverage_horizon": "2027-05-01",
+  "espn_table_note": "ESPN live standings may lag; score-derived ESPN dataset reconciled against current EFL table.",
+  "independent_match_scores": "ESPN, no full individual official score audit",
+  "official_table_source": "https://www.efl.com/competitions/efl-championship/",
+  "official_table_reconciliation": "PASS: current EFL live rendered standings 24 clubs reconcile to 168 ESPN STATUS_FULL_TIME scores, adjusted for Southampton -4.",
+  "independent_table_note": "ESPN live standings were not used as authority; current EFL official table was the row-wise comparator.",
+  "current_official_table_capture_brt": "2026-11-04T23:54:00-03:00",
+  "completed_rounds": 14,
+  "report_last_result_dates": [
+    "2026-11-03",
+    "2026-11-04"
+  ]
+}

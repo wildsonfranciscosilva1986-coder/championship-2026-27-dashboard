@@ -1,187 +1,408 @@
 {
-  "cutoff_brt": "2026-11-04T23:53-03:00",
-  "cutoff_utc": "2026-11-05T02:53:34Z",
+  "competition": "EFL Championship",
+  "season": "2026/27",
+  "cutoff_brt": "2026-11-05T14:30-03:00",
+  "cutoff_utc": "2026-11-05T17:30:11+00:00",
   "finished": 168,
-  "upcoming": 384,
-  "official_efl_url": "https://www.efl.com/competitions/efl-championship/",
-  "official_table": "24/24 match score-derived; -4 Southampton",
-  "feed": "ESPN scoreboard, calendar dates queried individually",
-  "source_snapshots": [
+  "upcoming": 383,
+  "coverage_horizon": "2027-05-01",
+  "official_table_source": "https://www.efl.com/competitions/efl-championship/",
+  "official_table_reconciliation": "PASS: all 24 clubs match score-derived P/W/D/L/GF/GA/GD/points after official Southampton -4 deduction",
+  "score_source": "ESPN public scoreboard per season calendar date; status STATUS_FULL_TIME and completed=true required",
+  "calendar_source": "ESPN published Championship calendar; near-term only, not a full official season pairing list",
+  "queried_dates": [
     {
       "date": "2026-08-14",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-08-15",
-      "events": 8
+      "event_count": 8
     },
     {
       "date": "2026-08-16",
-      "events": 2
+      "event_count": 2
     },
     {
       "date": "2026-08-17",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-08-22",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-08-23",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-08-28",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-08-29",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-09-01",
-      "events": 8
+      "event_count": 8
     },
     {
       "date": "2026-09-02",
-      "events": 4
+      "event_count": 4
     },
     {
       "date": "2026-09-05",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-09-06",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-09-08",
-      "events": 6
+      "event_count": 6
     },
     {
       "date": "2026-09-09",
-      "events": 3
+      "event_count": 3
     },
     {
       "date": "2026-09-11",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-09-12",
-      "events": 10
+      "event_count": 10
     },
     {
       "date": "2026-09-13",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-09-15",
-      "events": 2
+      "event_count": 2
     },
     {
       "date": "2026-09-18",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-09-19",
-      "events": 9
+      "event_count": 9
     },
     {
       "date": "2026-09-20",
-      "events": 2
+      "event_count": 2
     },
     {
       "date": "2026-10-09",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-10-10",
-      "events": 10
+      "event_count": 10
     },
     {
       "date": "2026-10-11",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-10-13",
-      "events": 8
+      "event_count": 8
     },
     {
       "date": "2026-10-14",
-      "events": 4
+      "event_count": 4
     },
     {
       "date": "2026-10-16",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-10-17",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-10-20",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-10-23",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-10-24",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-10-30",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-10-31",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-11-03",
-      "events": 9
+      "event_count": 9
     },
     {
       "date": "2026-11-04",
-      "events": 3
+      "event_count": 3
     },
     {
       "date": "2026-11-06",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-11-07",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-11-21",
-      "events": 11
+      "event_count": 11
     },
     {
       "date": "2026-11-22",
-      "events": 1
+      "event_count": 1
     },
     {
       "date": "2026-11-24",
-      "events": 8
+      "event_count": 8
     },
     {
       "date": "2026-11-25",
-      "events": 4
+      "event_count": 4
+    },
+    {
+      "date": "2026-11-27",
+      "event_count": 1
+    },
+    {
+      "date": "2026-11-28",
+      "event_count": 10
+    },
+    {
+      "date": "2026-11-29",
+      "event_count": 1
+    },
+    {
+      "date": "2026-12-04",
+      "event_count": 1
+    },
+    {
+      "date": "2026-12-05",
+      "event_count": 10
+    },
+    {
+      "date": "2026-12-06",
+      "event_count": 1
+    },
+    {
+      "date": "2026-12-08",
+      "event_count": 8
+    },
+    {
+      "date": "2026-12-09",
+      "event_count": 4
+    },
+    {
+      "date": "2026-12-11",
+      "event_count": 1
+    },
+    {
+      "date": "2026-12-12",
+      "event_count": 10
+    },
+    {
+      "date": "2026-12-13",
+      "event_count": 1
+    },
+    {
+      "date": "2026-12-18",
+      "event_count": 1
+    },
+    {
+      "date": "2026-12-19",
+      "event_count": 11
+    },
+    {
+      "date": "2026-12-26",
+      "event_count": 12
+    },
+    {
+      "date": "2026-12-29",
+      "event_count": 12
+    },
+    {
+      "date": "2027-01-01",
+      "event_count": 12
+    },
+    {
+      "date": "2027-01-15",
+      "event_count": 1
+    },
+    {
+      "date": "2027-01-16",
+      "event_count": 10
+    },
+    {
+      "date": "2027-01-17",
+      "event_count": 0
+    },
+    {
+      "date": "2027-01-22",
+      "event_count": 1
+    },
+    {
+      "date": "2027-01-23",
+      "event_count": 10
+    },
+    {
+      "date": "2027-01-24",
+      "event_count": 1
+    },
+    {
+      "date": "2027-01-26",
+      "event_count": 8
+    },
+    {
+      "date": "2027-01-27",
+      "event_count": 4
+    },
+    {
+      "date": "2027-01-29",
+      "event_count": 1
+    },
+    {
+      "date": "2027-01-30",
+      "event_count": 10
+    },
+    {
+      "date": "2027-01-31",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-05",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-06",
+      "event_count": 10
+    },
+    {
+      "date": "2027-02-07",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-12",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-13",
+      "event_count": 10
+    },
+    {
+      "date": "2027-02-14",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-16",
+      "event_count": 7
+    },
+    {
+      "date": "2027-02-17",
+      "event_count": 5
+    },
+    {
+      "date": "2027-02-19",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-20",
+      "event_count": 10
+    },
+    {
+      "date": "2027-02-21",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-26",
+      "event_count": 1
+    },
+    {
+      "date": "2027-02-27",
+      "event_count": 10
+    },
+    {
+      "date": "2027-02-28",
+      "event_count": 1
+    },
+    {
+      "date": "2027-03-02",
+      "event_count": 8
+    },
+    {
+      "date": "2027-03-03",
+      "event_count": 4
+    },
+    {
+      "date": "2027-03-06",
+      "event_count": 12
+    },
+    {
+      "date": "2027-03-13",
+      "event_count": 12
+    },
+    {
+      "date": "2027-03-16",
+      "event_count": 8
+    },
+    {
+      "date": "2027-03-17",
+      "event_count": 4
+    },
+    {
+      "date": "2027-03-20",
+      "event_count": 12
+    },
+    {
+      "date": "2027-04-03",
+      "event_count": 12
+    },
+    {
+      "date": "2027-04-06",
+      "event_count": 8
+    },
+    {
+      "date": "2027-04-07",
+      "event_count": 4
+    },
+    {
+      "date": "2027-04-10",
+      "event_count": 12
+    },
+    {
+      "date": "2027-04-17",
+      "event_count": 12
+    },
+    {
+      "date": "2027-04-20",
+      "event_count": 8
+    },
+    {
+      "date": "2027-04-21",
+      "event_count": 4
+    },
+    {
+      "date": "2027-04-24",
+      "event_count": 12
+    },
+    {
+      "date": "2027-05-01",
+      "event_count": 12
     }
   ],
-  "coverage_horizon": "2027-05-01",
-  "espn_table_note": "ESPN live standings may lag; score-derived ESPN dataset reconciled against current EFL table.",
-  "independent_match_scores": "ESPN, no full individual official score audit",
-  "official_table_source": "https://www.efl.com/competitions/efl-championship/",
-  "official_table_reconciliation": "PASS: current EFL live rendered standings 24 clubs reconcile to 168 ESPN STATUS_FULL_TIME scores, adjusted for Southampton -4.",
-  "independent_table_note": "ESPN live standings were not used as authority; current EFL official table was the row-wise comparator.",
-  "current_official_table_capture_brt": "2026-11-04T23:54:00-03:00",
-  "completed_rounds": 14,
-  "report_last_result_dates": [
-    "2026-11-03",
-    "2026-11-04"
-  ]
+  "pending_or_postponed": "not scored or included in match-derived metrics"
 }
